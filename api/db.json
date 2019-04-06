@@ -2,8 +2,19 @@
   "streams": [
     {
       "title": "My stream",
-      "discription": "This is a great stream",
+      "description": "This is a great stream",
       "id": 1
+    },
+    {
+      "title": "TEst",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "hjhdhjkjk",
+      "description": "jjfjfff",
+      "userId": "105361755373662355552",
+      "id": 3
     }
   ]
 }
